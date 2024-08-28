@@ -40,7 +40,6 @@ class NewVisitorTest(unittest.TestCase):
         # Ela acessa esse URL - sua lista de tarefas continua lá.
 
         # Satisfeita, ela volta a dormir
-        browser.quit()
 
 if __name__ == '__main__':
     unittest.main(warnings='ignore')
